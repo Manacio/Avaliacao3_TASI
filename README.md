@@ -1,5 +1,4 @@
 # Avaliacao3_TASI
-<<<<<<< HEAD
 =======
 # Geração de Embeddings com Ollama
 
@@ -33,6 +32,3 @@ ollama run mxbai-embed-large:latest
 pip install langchain_community
 ```
 
-
-
->>>>>>> 40e922c7c691a94568b9e5e6cf885d9bfb5de6c2
